@@ -1,20 +1,83 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Cricklyte 🏏⚡
 
-# Run and deploy your AI Studio app
+AI-Powered Real-Time Cricket Analytics Platform
 
-This contains everything you need to run your app locally.
+## Overview
+Cricklyte is an AI-powered cricket analytics platform that provides real-time player insights, performance analysis, and match impact predictions during live matches.
 
-View your app in AI Studio: https://ai.studio/apps/216ad3d1-c80f-4290-9e78-7cbb0cd53238
+Users can upload or select a player image and instantly get:
+- Performance Meter
+- Pressure Analysis
+- Match Impact Score
+- AI Insights
+- Prediction Badges
+- Fantasy Cricket Predictions
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## Features
+- Live Player Analytics
+- AI Performance Prediction
+- Match Impact Analysis
+- Dynamic Badge System
+- Fantasy Cricket Assistant
+- Interactive Dashboard
+- Real-Time Match Insights
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tech Stack
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- Recharts
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- Firebase / Supabase
+
+### Deployment
+- Vercel
+
+---
+
+## AI Metrics
+Cricklyte analyzes:
+- Runs
+- Strike Rate
+- Wickets
+- Economy
+- Match Pressure
+- Match Situation
+
+Then generates:
+- Performance Scores
+- AI Insights
+- Match Predictions
+- Dynamic Player Badges
+
+---
+
+## Example Badges
+- Match Changer
+- Pressure Player
+- Aggressive Finisher
+- Bowling Destroyer
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/cricklyte.git
+
+cd cricklyte
+
+npm install
+
+npm run dev
