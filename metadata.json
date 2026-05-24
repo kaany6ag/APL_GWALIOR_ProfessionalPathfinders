@@ -1,0 +1,6 @@
+{
+  "name": "Cricklyte",
+  "description": "Cricklyte is a premium AI-powered cricket analytics, dynamic visualization, and live match prediction platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
