@@ -81,4 +81,5 @@ cd cricklyte
 npm install
 
 npm run dev
-project link- https://cricklyte.vercel.app
+project link- https://cricklyte.onrender.com/
+
